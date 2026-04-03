@@ -1,4 +1,7 @@
 {
   "item.redpower.bismuth": "Bismuth",
-  "item.redpower.raw_bismuth": "Raw Bismuth"
+  "item.redpower.raw_bismuth": "Raw Bismuth",
+
+  "block.redpower.bismuth_block": "Block of Bismuth",
+  "block.redpower.bismuth_ore": "Bismuth Ore"
 }
