@@ -3,5 +3,8 @@
   "item.redpower.raw_bismuth": "Raw Bismuth",
 
   "block.redpower.bismuth_block": "Block of Bismuth",
-  "block.redpower.bismuth_ore": "Bismuth Ore"
+  "block.redpower.bismuth_ore": "Bismuth Ore",
+
+  "creativetab.redpower.bismuth_items": "Bismuth Items",
+  "creativetab.redpower.bismuth_blocks": "Bismuth Blocks"
 }
