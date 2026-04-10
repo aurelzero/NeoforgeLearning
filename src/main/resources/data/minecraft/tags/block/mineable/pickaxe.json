@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "redpower:bismuth_block",
+    "redpower:bismuth_ore",
+    "redpower:bismuth_deepslate_ore"
+  ]
+}
